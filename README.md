@@ -7,15 +7,17 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
 * __SQL__: Examples of executing and formulating SQL queries for selected simulated business cases.
 
 ## Em progresso(In Progress)
-* __Movement of old projects into this repository__
-  * Machine learning projects (multiple)
-* __New and ongoing projects__
-  * More machine learning projects
-    * Focus on deep learning architectures, reinforcement learning, time series applications
-  * Other application + visualization tools
-  * Custom-written ML algorithms
-    * Re-implementations to dive deeper into theory
-    * Possible variants on existing algorithms
+* __Projeto de informações gerenciais de municípios do estado do Ceará__
+  * Projetos de Machine learning (multiplos modelos de previsão de receitas e despesas).
+  * Banco de dados de informações de municípios para Chat Bot.
+  * Dasboards para prefeituras do municícios do estado do Ceará.
+  * Dasboard gerenciais utilizando API de serviços como Trello.
+* __Novos projetos estudados__
+  * Mais projetos de Machine learning
+    * Foco em deep learning, reinforcement learning, time series applications.
+  * Mais projetos de ETL.
+  * Outras aplicações + ferramentas de visualização
+
 ## Conhecimentos
  * __Python__
    * Pandas
@@ -25,3 +27,5 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
    * Selenium
    * TensorFlow
  * __SQL__
+ * __Microsoft PowerBi__
+   * DAX
