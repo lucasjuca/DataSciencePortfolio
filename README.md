@@ -17,7 +17,7 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
   * Custom-written ML algorithms
     * Re-implementations to dive deeper into theory
     * Possible variants on existing algorithms
- ## Conhecimentos
+## Conhecimentos
  * __Python
   * Pandas
   * Seaborn
