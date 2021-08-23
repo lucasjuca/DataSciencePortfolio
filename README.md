@@ -18,11 +18,11 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
     * Re-implementations to dive deeper into theory
     * Possible variants on existing algorithms
 ## Conhecimentos
- * __Python
+ * __Python__
   * Pandas
   * Seaborn
   * Matplotlib
   * Sklearn
   * Selenium
   * TensorFlow
- * __SQL
+ * __SQL__
