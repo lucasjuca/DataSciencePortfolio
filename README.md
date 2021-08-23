@@ -19,10 +19,10 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
     * Possible variants on existing algorithms
 ## Conhecimentos
  * __Python__
-  * Pandas
-  * Seaborn
-  * Matplotlib
-  * Sklearn
-  * Selenium
-  * TensorFlow
+   * Pandas
+   * Seaborn
+   * Matplotlib
+   * Sklearn
+   * Selenium
+   * TensorFlow
  * __SQL__
