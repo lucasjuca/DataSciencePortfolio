@@ -9,7 +9,6 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
 ## Em progresso(In Progress)
 * __Movement of old projects into this repository__
   * Machine learning projects (multiple)
-  * Dockerized applications
 * __New and ongoing projects__
   * More machine learning projects
     * Focus on deep learning architectures, reinforcement learning, time series applications
