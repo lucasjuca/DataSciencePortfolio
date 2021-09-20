@@ -12,7 +12,7 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
   * Banco de dados de informações de municípios para Chat Bot.
   * ETL de extração de dados de arquivos csv e API do Tribunal de contas do estado do Ceará.
   * Dasboards para prefeituras do municícios do estado do Ceará.
-* __Projeto de criação de informações gerencias sobre dados do Trello
+* __Projeto de criação de informações gerencias sobre dados do Trello__
   * Criação de banco com dados retirados da API do trello.
   * Dasboard gerenciail utilizando Power BI.
 * __Novos projetos estudados__
