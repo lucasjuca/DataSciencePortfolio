@@ -3,7 +3,7 @@ Seleção de projetos de Data Science selecionados para demonstrar conjuntos de 
 
 ## Conteúdo(Contents)
 * __Python__: Scripts de Python interagindo com dados.
-* __Python Web Scraping__: Exemplo simples de um web scrapping usando Selenium para encontrar o dia de vacinação de uma pessoa em Fortaleza, Ceará.
+* __Python Web Scraping__: Exemplos de web scrapping usando Selenium.
 * __SQL__: Examples of executing and formulating SQL queries for selected simulated business cases.
 
 ## Em progresso(In Progress)
