@@ -2,8 +2,8 @@
 Seleção de projetos de Data Science selecionados para demonstrar conjuntos de habilidades, conhecimentos e o que considero interessante.
 
 ## Conteúdo(Contents)
-* __PythonOOP__: An object oriented programming example in Python 3 which will run simulations of the El Farol problem from complexity theory
-* __PythonWebScraping__: Exemplo simples de um web scrapping usando Selenium para encontrar o dia de vacinação de uma pessoa em Fortaleza, Ceará.
+* __Python__: Scripts de Python interagindo com dados.
+* __Python Web Scraping__: Exemplo simples de um web scrapping usando Selenium para encontrar o dia de vacinação de uma pessoa em Fortaleza, Ceará.
 * __SQL__: Examples of executing and formulating SQL queries for selected simulated business cases.
 
 ## Em progresso(In Progress)
